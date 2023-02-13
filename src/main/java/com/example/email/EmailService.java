@@ -1,4 +1,6 @@
 package com.example.email;
+import com.example.email.EmailDetails;
+
 
 public interface EmailService {
 
